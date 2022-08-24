@@ -1,4 +1,0 @@
-this is version 1 of my project
-i want to go into commit 2 
-change by harry2
-this is changed now
